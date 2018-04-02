@@ -1,1 +1,2 @@
-# intro_cv_course
+# CV Assignments
+
